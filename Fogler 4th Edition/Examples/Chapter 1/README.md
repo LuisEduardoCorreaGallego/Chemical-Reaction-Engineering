@@ -1,3 +1,3 @@
 # Example
 
-![StreamData](example_1.png)
+![StreamData](example_1.PNG)
