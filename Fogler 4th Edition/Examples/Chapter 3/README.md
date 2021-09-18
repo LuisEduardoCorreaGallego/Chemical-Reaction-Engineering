@@ -12,7 +12,7 @@
 
 ## Example 3.3
 
-![StreamData](example_33_a.png)
+![StreamData](example_33.png)
 
 ## Example 3.4
 
